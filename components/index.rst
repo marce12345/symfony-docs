@@ -1,7 +1,7 @@
 The Components
 ==============
 
-.. toctree::
+.. _tiers:
     :maxdepth: 1
     :glob:
 
